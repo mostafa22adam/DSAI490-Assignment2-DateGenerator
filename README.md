@@ -52,7 +52,7 @@ The notebook and model folder include four models:
 
 
 
-```text
+
 
 data/
 
