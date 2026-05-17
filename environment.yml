@@ -1,0 +1,12 @@
+name: dsai490_a2
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - torch>=2.0.0
+    - numpy
+    - matplotlib
